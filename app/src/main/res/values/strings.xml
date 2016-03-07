@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SqlDatenbank</string>
+    <string name="textView1">Vormane</string>
+    <string name="textView2">Nachname</string>
+    <string name="textView3">Gruppe</string>
+    <string name="AddButton">Add</string>
+    <string name="LoadButton">Load</string>
+    <string name="UpdateButton">Update</string>
+    <string name="DeleteButton">Delete</string>
+    <string name="Ueberschrift">Bitte ID des zu Updatenden eingeben </string>
+    <string name="Values">Bitte neue Werte eingeben</string>
+    <string name="DeleteÜber">Bitte ID des zu Löschenden eingeben</string>
+</resources>
